@@ -1,0 +1,225 @@
+.text-17-600{
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 21px;
+
+}
+.text-17-500{
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 21px;
+    
+}
+.text-20-500{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    
+}
+.text-23-600{
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 28px;
+    
+}
+
+.text-15-500{
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    
+}
+.text-20-700{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 21px;
+    
+}
+.text-24-700{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 25px;
+    
+}
+.text-25-500{
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 31px;
+    
+}
+.text-27-700{
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 25px;
+    
+}
+.text-20-600{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 21px;
+    
+}
+.text-30-600{
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 31px;
+    
+}
+.text-20-400{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    
+}
+.text-17-400{
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 21px;
+    
+}
+.text-120-400-t{
+    font-family: 'Yatra One', cursive;
+    font-size: 120px;
+    font-weight: 400;
+    line-height: 124px;
+    
+}
+.text-64-400-t{
+    font-family: 'Yatra One', cursive;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 66px;
+    
+}
+
+.text-40-400-s{
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 41px;
+    
+}
+.text-17-700-n{
+    font-family: 'Neuton', serif;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 18px;
+    
+}
+.text-25-700-n{
+    font-family: 'Neuton', serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 26px;
+    
+}
+.text-40-500-n{
+    font-family: 'Neuton', serif;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 41px;
+    
+}
+.text-20-700-n{
+    font-family: 'Neuton', serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+}
+.text-15-500-n{
+    font-family: 'Neuton', serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+}
+.text-20-500-n{
+    font-family: 'Neuton', serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+}
+.text-30-700-n{
+    font-family: 'Neuton', serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 31px;
+}
+.text-30-700{
+    
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 31px;
+}
+.text-23-700-n{
+    font-family: 'Neuton', serif;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.text-25-500-n{
+    font-family: 'Neuton', serif;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 26px;
+}
+.text-40-700-n{
+    font-family: 'Neuton', serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 49px;
+}
+.text-17-n{
+    font-family: 'Neuton', serif;
+    font-size: 15px;
+    line-height: 18px;
+    margin-right: 5px;
+    
+}
+a{
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+    
+}
+.ai{
+    align-items: center;
+}
+header{
+    border-bottom: 1px solid #E6E6E6;
+}
+.lb{
+    color: #6C8693;
+}
+p{
+    margin: 0;
+}
+.jc-sb{
+    justify-content: space-between;
+}
+.c-w{
+    color: #fff;
+}
+@media (max-width: 768px){
+    
+    .text-120-400-t{
+        
+        font-size: 100px;
+        
+        line-height: 100px;
+        text-align: center;
+    }
+    .text-40-500-n{
+        
+        font-size: 30px;
+      
+        line-height: 31px;
+        
+    }
+    .text-20-500{
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 15px;
+        
+    }
+}
